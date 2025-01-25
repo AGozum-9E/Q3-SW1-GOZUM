@@ -1,0 +1,19 @@
+body {
+ background-color: #F2F79E;
+}
+
+.container {
+	background-color:#A8D4AD ;
+	padding: 15px;
+	border-radius: 8px;
+	box-shadow: 4px 5px 5px 0px rgba(0,0,0,0.75);
+	font-family:times new roman;
+	text-align: center;
+	max-width: 650px;
+}
+
+.price {
+	text-align: center;
+	background-color: #92B9BD;
+	border-radius: 5px;
+}
